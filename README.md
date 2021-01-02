@@ -16,12 +16,12 @@ Just a social app. This app is mostly completed but some bugs would be there.
 <a href="https://play.google.com/store/apps/details?id=com.amsavarthan.social.hify"><img src="https://cdn.rawgit.com/steverichey/google-play-badge-svg/master/img/en_get.svg" width="30%"></a>
 </p>
 
-## Available feautres
+## Available features
 
 * Registration
   - Registration and logging in using firebase **(stable)**
 * Flash Messages
-  - Instant messaging using notifications using firebase functions **(stable)**
+  - Instant messaging using notifications with firebase functions **(stable)**
 * Make new friends
   - Friend request and accepted notifications **(stable)**
   - Manage friends **(stable)**
@@ -34,8 +34,8 @@ Just a social app. This app is mostly completed but some bugs would be there.
 * Posts Feed
   - View posts of your friends **(stable)**
   - Like,Share,Comment **(stable)**
-* Mischellaneous
-  - Double tap like feature added **(stable)**
+* Miscellaneous
+  - Double-tap like feature added **(stable)**
   - Error handling Recycler View **(stable)**
 * Discuss
   - Forum **(stable)**
